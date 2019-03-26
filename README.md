@@ -32,7 +32,7 @@ If you are not familiar with managing dependencies with git subtree read the
 #### To install
 
 ```sh
-git remote add cable https://github.com/ethereum/cable
+git remote add cable https://github.com/BaerChain/cable
 git subtree add --prefix cmake/cable cable master --squash
 ```
 

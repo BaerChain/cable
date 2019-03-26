@@ -14,7 +14,6 @@ independent and it is easy to use them individually.
 
 - [Install](#install)
 - [Usage](#usage)
-- [Maintainer](#maintainer)
 - [License](#license)
 
 
@@ -73,16 +72,11 @@ cable_set_build_type(DEFAULT RelWithDebInfo CONFIGURATION_TYPES Debug Release Re
 ```
 
 
-## Maintainer
-
-Paweł Bylica [@chfast]
-
 ## License
 
 Licensed under the [Apache License, Version 2.0].
 
 
-[@chfast]: https://github.com/chfast
 [Apache License, Version 2.0]: LICENSE
 [git submodule]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 [git subtree]: https://github.com/git/git/blob/master/contrib/subtree/git-subtree.txt

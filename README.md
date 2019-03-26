@@ -47,7 +47,7 @@ git subtree pull --prefix cmake/cable cable master --squash
 Include the Cable library as [git submodule] in your project.
 
 ```sh
-git submodule add https://github.com/ethereum/cable cmake/cable
+git submodule add https://github.com/BaerChain/cable
 ```
 
 ## Usage
